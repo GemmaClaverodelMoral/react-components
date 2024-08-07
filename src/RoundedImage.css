@@ -1,0 +1,13 @@
+/* RoundedImage.css */
+.rounded-image-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rounded-image {
+    width: 100%;
+    height: auto;
+}
